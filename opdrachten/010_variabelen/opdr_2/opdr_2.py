@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Merlijn Schaap
+# Groep: IT2B
 
 # Hier komt je code...
 
