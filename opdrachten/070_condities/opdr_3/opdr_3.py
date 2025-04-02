@@ -1,6 +1,6 @@
 # Opdracht 3 condities
-# Naam student:
-# Groep:
+# Naam student: Merlijn Schaap
+# Groep: IT2B
 
 
 
